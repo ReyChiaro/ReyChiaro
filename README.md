@@ -1,8 +1,8 @@
-# Hi 👋, I'm Rey Chill
+# Hi 👋, I'm Chill
 
 I am a beginner in AI and currently study for my master degree in Computer Science and Aritifial Intelligence. I am always looking for research cooperation~
 
-- 🌱 I’m currently learning **Diffusion Models, Multimodal Models, Contrastive Learning and Computer Vision**
+- 🌱 I’m currently learning **Diffusion Models, Multimodal Models**
 
 - 📝 I regularly write articles on [https://reychiaro.github.io](https://reychiaro.github.io)
 
