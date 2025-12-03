@@ -4,7 +4,7 @@ I am a beginner in AI and currently study for my master degree in Computer Scien
 
 - 🌱 I’m currently learning **Diffusion Models, Multimodal Models**
 
-- 📝 I regularly write articles on [https://reychiaro.github.io](https://reychiaro.github.io)
+- 📝 I regularly write articles on [Blog](https://reychiaro.github.io) and [Zhihu](https://www.zhihu.com/people/chiaroair)
 
 - 📫 How to reach me: **chiaroair@gmail.com**
 
