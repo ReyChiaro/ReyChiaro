@@ -9,14 +9,11 @@ I am passionate about making AI not only more powerful, but also more aligned an
 
 Graduate student in AI, with both undergraduate and graduate studies completed at top-tier universities in China
 
+- My interests? Diffusion models/Flow-Matching, quantization and inference, test-time training
 - Former Research Assistant with hands-on research experience
-
 - Two papers currently under review
-
 - Currently an intern at SenseTime
-
 - I regularly write articles on [Blog](https://reychiaro.github.io) and [Zhihu](https://www.zhihu.com/people/chiaroair)
-
 - Reach me with **chiaroair@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
