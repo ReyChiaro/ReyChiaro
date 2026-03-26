@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=false&hide=contribs&card_width=380&rank_icon=github&theme=dracula
+          options: username=${{ github.repository_owner }}&show_icons=false&hide=contribs&card_width=370&rank_icon=github&theme=dracula
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=html&card_width=400&theme=dracula
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=html&card_width=405&theme=dracula
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
