@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide=contribs&card_width=380&rank_icon=github&theme=dracula
+          options: username=${{ github.repository_owner }}&show_icons=false&hide=contribs&card_width=380&rank_icon=github&theme=dracula
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
