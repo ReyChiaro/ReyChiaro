@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./profile/cat.png" width="7%" />
-  <img src="./profile/signature.png" width="28%" />
+  <img src="./profile/sign.png" width="45%" />
 </p>
 
 # 🌌 Hi, there~
