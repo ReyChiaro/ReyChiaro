@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./profile/sign.png" width="45%" />
-</p>
+</p> -->
 
 # 🌌 Hi, there~
 
